@@ -1,0 +1,27 @@
+plans: [
+{
+	unit: alpha
+	requirements: [
+		silicon/45
+		lead/45
+	]
+	time: 3000
+}
+{
+	unit: flare
+	requirements: [
+		silicon/15
+	]
+	time: 900
+}
+{
+	unit: mono
+	requirements: [
+		silicon/30
+		lead/15
+	]
+	time: 2100
+}
+
+
+]
