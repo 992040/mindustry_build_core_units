@@ -1,7 +1,7 @@
 {
   "name": "Buid core units",
   "author": "[#ff]99[#1f1ff8ff]20[#00ff]40[white]",
-  "description": "Allows to build core units",
+  "description": "Allows to build Serpulo core units in air factory",
   "version": "1.0",
   "hidden": false,
   "minGameVersion": "136"}
